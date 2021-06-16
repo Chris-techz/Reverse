@@ -4,7 +4,7 @@
 /* 
 		*** Reverse Exercice Test ***
 
-	- Writen by     : Christophe GOUGIS
+	- Writen by     : Christophe GOUGIS 
 	- IDE			: Visual Studio 2019, 16.9.4
 	- file format   : ANSI
 	- Start			: 13h30 pm;
